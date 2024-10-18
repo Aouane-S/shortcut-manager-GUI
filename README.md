@@ -14,4 +14,4 @@ To get started with the Context Menu Shortcut Manager, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Aouane-S/Context-Menu-Shortcut-Manager.git
+   git clone https://github.com/Aouane-S/shortcut-manager-GUI
